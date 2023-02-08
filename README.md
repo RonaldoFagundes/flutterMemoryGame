@@ -10,7 +10,7 @@ Jogo da memoría
  <div width="auto" display="flex"  justify-content="space-between">
   
  
-   <img src="https://user-images.githubusercontent.com/79234840/185764003-bac7012a-6d39-4026-9cd4-d6490eae6485.jpg" width="140px" height="200px"/>
+   <img src="https://user-images.githubusercontent.com/79234840/217676808-a4e8419d-2c7d-4c4b-af49-2e19e29ff4d6.png" width="140px" height="200px"/>
   
    
   
